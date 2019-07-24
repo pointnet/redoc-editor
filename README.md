@@ -18,7 +18,8 @@ This project was bootstrapped with
 * [yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 
 This project use a modified version of the [Petstore](https://redocly.github.io/redoc/openapi.yaml)
-OpenAPI definition from [ReDoc](https://github.com/Redocly/redoc).<br />
+OpenAPI definition from [ReDoc](https://github.com/Redocly/redoc).
+
 This was done to remove the `Authentication` block from the `info.description`
 definition so we can see the effect of the `noAutoAuth` option.
 
