@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/redoc-editor/static/js/main.50798649.chunk.js",
+    "main.js.map": "/redoc-editor/static/js/main.50798649.chunk.js.map",
+    "runtime~main.js": "/redoc-editor/static/js/runtime~main.d8ce6e74.js",
+    "runtime~main.js.map": "/redoc-editor/static/js/runtime~main.d8ce6e74.js.map",
+    "static/js/2.38450e8a.chunk.js": "/redoc-editor/static/js/2.38450e8a.chunk.js",
+    "static/js/2.38450e8a.chunk.js.map": "/redoc-editor/static/js/2.38450e8a.chunk.js.map",
+    "index.html": "/redoc-editor/index.html",
+    "precache-manifest.f01a5bd0f7bdcde7ea46e57a4adf7d4c.js": "/redoc-editor/precache-manifest.f01a5bd0f7bdcde7ea46e57a4adf7d4c.js",
+    "service-worker.js": "/redoc-editor/service-worker.js"
+  }
+}
