@@ -30,6 +30,12 @@ definition so we can see the effect of the `noAutoAuth` option.
 * `typography.headings.fontFamily`
 * `typography.code.fontFamily`
 
+`scrollYOffset` picker: querySelector or number or function
+
+`jsonSampleExpandLevel` picker: allow all or number (default: 2)
+
+`showExtensions` picker: allow comma separated list of vendor extension
+
 ## Contributing
 
 We'd greatly appreciate any [contribution](/.github/CONTRIBUTING.md) you make.<br />
