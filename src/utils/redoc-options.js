@@ -60,4 +60,8 @@ export default [
     text: 'enumSkipQuotes',
     property: 'enumSkipQuotes',
   },
+  {
+    text: 'menuToggle',
+    property: 'menuToggle',
+  },
 ];
