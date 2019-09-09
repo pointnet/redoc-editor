@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/redoc-editor/precache-manifest.f01a5bd0f7bdcde7ea46e57a4adf7d4c.js"
+  "/redoc-editor/precache-manifest.b5dabf68f7a478b631f76328cd280660.js"
 );
 
 self.addEventListener('message', (event) => {
